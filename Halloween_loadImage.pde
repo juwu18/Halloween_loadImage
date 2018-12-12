@@ -8,7 +8,7 @@ void setup() {
 }
 void draw()
 {
-  save("JUSTINWU.Halloween.png");
+  //save("JUSTINWU.Halloween.png");
 }
 
 void mouseDragged()
